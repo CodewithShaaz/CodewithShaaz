@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack development**
 
-- 💬 Ask me about **MEARN, MEAN, LAMP**
+- 💬 Ask me about **MERN, MEAN, LAMP**
 
 - 📫 How to reach me **shaazahmed.ksa@gmail.com**
 
