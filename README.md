@@ -19,7 +19,8 @@
 <a href="https://www.linkedin.com/in/md-shaaz-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shaaz ahmed" height="30" width="40" /></a>
 <a href="https://x.com/Shaaz1111" target="blank"><img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebdd90aef8ef8c749e848_X-EverythingApp-Logo-Twitter.jpg" alt="md shaaz ahmed" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/shaazahmedksa/" target="blank"><img align="center" src="https://images.yourstory.com/cs/images/companies/119169043101580097794440231905187057223611079n-1617083628661.png?fm=auto&ar=1%3A1&mode=fill&fill=solid&fill-color=fff&format=auto&w=384&q=75" alt="md shaaz ahmed" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Shaazleetcode/" target="blank"><img align="center" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.moocable.com%2Fjournal%2Fthe-leetcode-guide-for-students%2F&psig=AOvVaw3-D0lH1wlurinRNL-hci3E&ust=1754496940048000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDL6tWI9I4DFQAAAAAdAAAAABAE](https://ih1.redbubble.net/image.4319591490.4332/ur,pin_small_front,wide_portrait,750x1000.jpg)" alt="md shaaz ahmed" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Shaazleetcode/" target="blank"><img align="center"
+src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="md shaaz ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
