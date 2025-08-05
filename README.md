@@ -8,12 +8,6 @@
 
 - 🌱 I’m currently learning **Full Stack development**
 
-- 📫 How to reach me **shaazahmed.ksa@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XU_FOh6y9GWBIhE-ptY0yScHpRC4enFt/view?usp=drive_link](https://drive.google.com/file/d/13f10lzAlEko0O055t7DG88-0EIisnZFJ/view)
-
-- ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-shaaz-ahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shaaz ahmed" height="30" width="40" /></a>
